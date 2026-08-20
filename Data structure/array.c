@@ -10,7 +10,7 @@ int main()
 	  
      
      
-	  printf("\n array element is:%d",x[i]);
+	  printf("\n array element are:%d",x[i]);
  }
 	  return 0;
 }
